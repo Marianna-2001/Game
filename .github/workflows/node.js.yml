@@ -19,7 +19,7 @@ steps:
 
 
 - name: npm install, test and build
-  run: |
+run:
  npm install
  npm run build
 
